@@ -96,6 +96,7 @@
      <Compile Include="Assets\PaymentWall\Scripts\Widget\PWWidget.cs" />
      <Compile Include="Assets\PaymentWall\Third Parties\SimpleJSON.cs" />
      <Compile Include="Assets\PaymentWall\Third Parties\WebViewObject.cs" />
+     <Compile Include="Assets\nav.cs" />
      <None Include="Assets\PaymentWall\Examples\Resources\Data\subscription.txt" />
      <None Include="Assets\PaymentWall\Examples\Resources\Data\localization.txt" />
      <None Include="Assets\PaymentWall\Third Parties\license.txt" />

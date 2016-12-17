@@ -3,13 +3,15 @@ using System.Collections;
 
 public class Errand : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-	
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+	public string title;
+	public string product;
+	public string targetLoc;
+	public string targetTime;
+	public int fee;
+	public string author;
+	public bool listed;
+	public bool active;
+	public string fetcher;
+	public bool finished;
+	public string authenticator;
 }
