@@ -47,18 +47,27 @@
   <ItemGroup>
      <Compile Include="Assets\DatabaseControl\Demos\JS Demo\Scripts\dcDemo_LoadingRotate_js.js" />
      <Compile Include="Assets\DatabaseControl\Demos\JS Demo\Scripts\dcDemo_MenuControl_js.js" />
-     <None Include="Assets\PaymentWall\Examples\Resources\Data\subscription.txt" />
-     <None Include="Assets\PaymentWall\Examples\Resources\Data\localization.txt" />
-     <None Include="Assets\PaymentWall\Third Parties\license.txt" />
-     <None Include="Assets\PaymentWall\Examples\Resources\Data\widget.txt" />
+     <None Include="Assets\PlugIns\PaymentWall\Examples\Resources\Data\subscription.txt" />
+     <None Include="Assets\PlugIns\PaymentWall\Examples\Resources\Data\localization.txt" />
+     <None Include="Assets\PlugIns\PaymentWall\Third Parties\license.txt" />
+     <None Include="Assets\PlugIns\PaymentWall\Examples\Resources\Data\widget.txt" />
      <None Include="Assets\DatabaseControl\Data\Resources\data.txt" />
-     <None Include="Assets\PaymentWall\Examples\Resources\Data\virtual.txt" />
-     <None Include="Assets\PaymentWall\Examples\Resources\Data\digitals.txt" />
+     <None Include="Assets\PlugIns\PaymentWall\Examples\Resources\Data\virtual.txt" />
+     <None Include="Assets\PlugIns\PaymentWall\Examples\Resources\Data\digitals.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Data">
+ <HintPath>/Users/OscarLundberg/GitHub/fetch/Assets/Mono.Data.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Data.Sqlite">
+ <HintPath>/Users/OscarLundberg/GitHub/fetch/Assets/Mono.Data.Sqlite.dll</HintPath>
+ </Reference>
+ <Reference Include="Mono.Data.SqliteClient">
+ <HintPath>/Users/OscarLundberg/GitHub/fetch/Assets/Mono.Data.SqliteClient.dll</HintPath>
  </Reference>
  <Reference Include="DatabaseControl">
  <HintPath>/Users/OscarLundberg/GitHub/fetch/Assets/DatabaseControl/Scripts/DatabaseControl.dll</HintPath>

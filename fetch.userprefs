@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Connect.cs">
+    <Files>
+      <File FileName="../../../../Applications/XAMPP/xamppfiles/htdocs/accounts/accountsData.php" Line="26" Column="3" />
+      <File FileName="Assets/Scripts/User.cs" Line="6" Column="1" />
+      <File FileName="Assets/Scripts/Connect.cs" Line="34" Column="11" />
+      <File FileName="Assets/Scripts/Main.cs" Line="12" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

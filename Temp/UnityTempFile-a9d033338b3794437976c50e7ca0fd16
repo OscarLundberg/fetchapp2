@@ -1,0 +1,149 @@
+-debug
+-target:library
+-nowarn:0169
+-out:'Temp/Assembly-CSharp-firstpass.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Managed/UnityEngine.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'
+-r:'Assets/PlugIns/Mono.Data.dll'
+-r:'Assets/PlugIns/Mono.Data.Sqlite.dll'
+-r:'Assets/PlugIns/Mono.Data.SqliteClient.dll'
+-r:'Assets/PlugIns/DatabaseControl/Scripts/DatabaseControl.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll'
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_4_2
+-define:UNITY_5_4
+-define:UNITY_5
+-define:UNITY_ADS
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_EDITOR_RETINA
+-define:ENABLE_RETINA_GUISTYLES
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_SPRITE_POLYGON
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:INCLUDE_DIRECTX12
+-define:PLATFORM_SUPPORTS_MONO
+-define:INCLUDE_PUBNUB
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION
+-define:ENABLE_EDITOR_TESTS_RUNNER
+-define:UNITY_ANDROID
+-define:UNITY_ANDROID_API
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_EGL
+-define:ENABLE_NETWORK
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:PLATFORM_SUPPORTS_ADS_ID
+-define:UNITY_CAN_SHOW_SPLASH_SCREEN
+-define:ENABLE_UNITYADS_RUNTIME
+-define:UNITY_UNITYADS_API
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_OSX
+-define:UNITY_TEAM_LICENSE
+'Assets/PlugIns/DatabaseControl/Demos/CSharp Demo/Scripts/dcDemo_LoadingRotate_CSharp.cs'
+'Assets/PlugIns/DatabaseControl/Demos/CSharp Demo/Scripts/dcDemo_MenuControl_CSharp.cs'
+'Assets/PlugIns/GAS/Scripts/AccountSystem.cs'
+'Assets/PlugIns/GAS/Scripts/ActiveAccount.cs'
+'Assets/PlugIns/GAS/Scripts/LoginSystem.cs'
+'Assets/PlugIns/GAS/Scripts/RegisterSystem.cs'
+'Assets/PlugIns/GAS/Scripts/ResetPassword.cs'
+'Assets/PlugIns/GAS/Scripts/UiAccountManager.cs'
+'Assets/PlugIns/GAS/Scripts/forgetPassword.cs'
+'Assets/PlugIns/GAS/Scripts/sampleGetInformatio.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/Logic/CartManager.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/Logic/DigitalGoodController.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/Logic/FakeAccountController.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/Logic/SubscriptionController.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/Logic/VirtualCurrencyController.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/Models/BaseModel.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/Models/DigitalGoodModel.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/Models/SubscriptionModel.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/Models/VirtualCurrencyModel.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/BrickFormHandle.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/CheckoutForm.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/Digital Goods/ProductsArea.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/Digital Goods/UICategoryFilter.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/Digital Goods/UIOutOfShardPopup.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/Digital Goods/UITypeFilter.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/FailedUI.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/SearchHandle.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/ShoppingCart.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/Subscriptions/SubscriptionArea.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/SuccessUI.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/TransactionArea.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/UIButtonCart.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/UIFakeAccount.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/UIHelp.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/UILocalization.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/UINavigation.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/UIProductFilter.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/UIShardsBalance.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/UITextTitle.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/UI/Virtual Currency/VirtualCurrency.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/Ultis/GlobalSettings.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/Brick Form/Ultis/TextLocalization.cs'
+'Assets/PlugIns/PaymentWall/Examples/Scripts/PWLocal/WidgetTab.cs'
+'Assets/PlugIns/PaymentWall/Scripts/Brick/InputFieldEventHandle.cs'
+'Assets/PlugIns/PaymentWall/Scripts/Brick/PWBrick.cs'
+'Assets/PlugIns/PaymentWall/Scripts/Brick/PWBrickForm.cs'
+'Assets/PlugIns/PaymentWall/Scripts/Brick/PWCharge.cs'
+'Assets/PlugIns/PaymentWall/Scripts/Brick/PWOneTimeToken.cs'
+'Assets/PlugIns/PaymentWall/Scripts/Brick/PWSubscription.cs'
+'Assets/PlugIns/PaymentWall/Scripts/Core/PWBase.cs'
+'Assets/PlugIns/PaymentWall/Scripts/Core/PWPingback.cs'
+'Assets/PlugIns/PaymentWall/Scripts/Core/PWProduct.cs'
+'Assets/PlugIns/PaymentWall/Scripts/Core/PWUltils.cs'
+'Assets/PlugIns/PaymentWall/Scripts/Widget/PWUnityWidget.cs'
+'Assets/PlugIns/PaymentWall/Scripts/Widget/PWWebViewImpl.cs'
+'Assets/PlugIns/PaymentWall/Scripts/Widget/PWWidget.cs'
+'Assets/PlugIns/PaymentWall/Third Parties/SimpleJSON.cs'
+'Assets/PlugIns/PaymentWall/Third Parties/WebViewObject.cs'
+-r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Mono/lib/mono/unity/System.Xml.Linq.dll'
